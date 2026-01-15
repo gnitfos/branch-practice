@@ -1,1 +1,5 @@
-# branch-practice
+# FIZZBVUZZ on update-RM
+
+## How to start
+
+## Installation
